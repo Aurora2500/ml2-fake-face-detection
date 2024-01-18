@@ -1,1 +1,4 @@
 data
+data_*
+*.pt
+.vscode
